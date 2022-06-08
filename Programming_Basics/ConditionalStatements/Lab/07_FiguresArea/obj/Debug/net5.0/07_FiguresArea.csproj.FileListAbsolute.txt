@@ -1,0 +1,15 @@
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\bin\Debug\net5.0\07_FiguresArea.exe
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\bin\Debug\net5.0\07_FiguresArea.deps.json
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\bin\Debug\net5.0\07_FiguresArea.runtimeconfig.json
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\bin\Debug\net5.0\07_FiguresArea.runtimeconfig.dev.json
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\bin\Debug\net5.0\07_FiguresArea.dll
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\bin\Debug\net5.0\ref\07_FiguresArea.dll
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\bin\Debug\net5.0\07_FiguresArea.pdb
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\obj\Debug\net5.0\07_FiguresArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\obj\Debug\net5.0\07_FiguresArea.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\obj\Debug\net5.0\07_FiguresArea.AssemblyInfo.cs
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\obj\Debug\net5.0\07_FiguresArea.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\obj\Debug\net5.0\07_FiguresArea.dll
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\obj\Debug\net5.0\ref\07_FiguresArea.dll
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\obj\Debug\net5.0\07_FiguresArea.pdb
+C:\Users\George\Desktop\ConditionalStatements\Lab\07_FiguresArea\obj\Debug\net5.0\07_FiguresArea.genruntimeconfig.cache
