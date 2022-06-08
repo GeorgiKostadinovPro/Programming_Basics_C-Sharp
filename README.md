@@ -13,10 +13,6 @@ Topics:
 
 Sertificate:
 
-![image](https://user-images.githubusercontent.com/72508846/172626396-10bb0fc6-07be-4f08-972a-ac277b55a6bf.png)
-
-![image](https://user-images.githubusercontent.com/72508846/172626811-8494851d-4720-4971-acb8-213db46073e1.png)
-
-
+![Programming Basics - October 2021 - Certificate](https://user-images.githubusercontent.com/72508846/172627131-7b8311eb-bc52-4a8d-af0d-0d523a9ad16c.jpeg)
   
 
