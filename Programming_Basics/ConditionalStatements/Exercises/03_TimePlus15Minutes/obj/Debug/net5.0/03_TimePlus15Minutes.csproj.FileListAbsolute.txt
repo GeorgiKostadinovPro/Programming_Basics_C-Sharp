@@ -1,0 +1,15 @@
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\bin\Debug\net5.0\03_TimePlus15Minutes.exe
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\bin\Debug\net5.0\03_TimePlus15Minutes.deps.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\bin\Debug\net5.0\03_TimePlus15Minutes.runtimeconfig.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\bin\Debug\net5.0\03_TimePlus15Minutes.runtimeconfig.dev.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\bin\Debug\net5.0\03_TimePlus15Minutes.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\bin\Debug\net5.0\ref\03_TimePlus15Minutes.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\bin\Debug\net5.0\03_TimePlus15Minutes.pdb
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\obj\Debug\net5.0\03_TimePlus15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\obj\Debug\net5.0\03_TimePlus15Minutes.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\obj\Debug\net5.0\03_TimePlus15Minutes.AssemblyInfo.cs
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\obj\Debug\net5.0\03_TimePlus15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\obj\Debug\net5.0\03_TimePlus15Minutes.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\obj\Debug\net5.0\ref\03_TimePlus15Minutes.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\obj\Debug\net5.0\03_TimePlus15Minutes.pdb
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\03_TimePlus15Minutes\obj\Debug\net5.0\03_TimePlus15Minutes.genruntimeconfig.cache

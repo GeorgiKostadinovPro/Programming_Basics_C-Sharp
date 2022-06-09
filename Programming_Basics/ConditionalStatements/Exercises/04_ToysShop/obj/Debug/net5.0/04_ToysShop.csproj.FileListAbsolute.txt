@@ -1,0 +1,15 @@
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\bin\Debug\net5.0\04_ToysShop.exe
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\bin\Debug\net5.0\04_ToysShop.deps.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\bin\Debug\net5.0\04_ToysShop.runtimeconfig.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\bin\Debug\net5.0\04_ToysShop.runtimeconfig.dev.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\bin\Debug\net5.0\04_ToysShop.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\bin\Debug\net5.0\ref\04_ToysShop.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\bin\Debug\net5.0\04_ToysShop.pdb
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\obj\Debug\net5.0\04_ToysShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\obj\Debug\net5.0\04_ToysShop.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\obj\Debug\net5.0\04_ToysShop.AssemblyInfo.cs
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\obj\Debug\net5.0\04_ToysShop.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\obj\Debug\net5.0\04_ToysShop.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\obj\Debug\net5.0\ref\04_ToysShop.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\obj\Debug\net5.0\04_ToysShop.pdb
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\04_ToysShop\obj\Debug\net5.0\04_ToysShop.genruntimeconfig.cache
