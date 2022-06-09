@@ -1,0 +1,15 @@
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\bin\Debug\net5.0\07_Shopping.exe
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\bin\Debug\net5.0\07_Shopping.deps.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\bin\Debug\net5.0\07_Shopping.runtimeconfig.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\bin\Debug\net5.0\07_Shopping.runtimeconfig.dev.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\bin\Debug\net5.0\07_Shopping.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\bin\Debug\net5.0\ref\07_Shopping.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\bin\Debug\net5.0\07_Shopping.pdb
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\obj\Debug\net5.0\07_Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\obj\Debug\net5.0\07_Shopping.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\obj\Debug\net5.0\07_Shopping.AssemblyInfo.cs
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\obj\Debug\net5.0\07_Shopping.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\obj\Debug\net5.0\07_Shopping.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\obj\Debug\net5.0\ref\07_Shopping.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\obj\Debug\net5.0\07_Shopping.pdb
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\07_Shopping\obj\Debug\net5.0\07_Shopping.genruntimeconfig.cache
