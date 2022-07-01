@@ -1,0 +1,16 @@
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\bin\Debug\net5.0\01_SumSeconds.exe
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\bin\Debug\net5.0\01_SumSeconds.deps.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\bin\Debug\net5.0\01_SumSeconds.runtimeconfig.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\bin\Debug\net5.0\01_SumSeconds.runtimeconfig.dev.json
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\bin\Debug\net5.0\01_SumSeconds.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\bin\Debug\net5.0\ref\01_SumSeconds.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\bin\Debug\net5.0\01_SumSeconds.pdb
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\obj\Debug\net5.0\01_SumSeconds.csproj.AssemblyReference.cache
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\obj\Debug\net5.0\01_SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\obj\Debug\net5.0\01_SumSeconds.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\obj\Debug\net5.0\01_SumSeconds.AssemblyInfo.cs
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\obj\Debug\net5.0\01_SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\obj\Debug\net5.0\01_SumSeconds.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\obj\Debug\net5.0\ref\01_SumSeconds.dll
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\obj\Debug\net5.0\01_SumSeconds.pdb
+C:\Users\George\Desktop\Exercises\ConditionalStatementsExercises\01_SumSeconds\obj\Debug\net5.0\01_SumSeconds.genruntimeconfig.cache
