@@ -1,4 +1,4 @@
-# SoftUni_Programming_Basics_With_C#
+# SoftUni_Programming_Basics_With_C# - October 2021
 This is a repository where I upload all my exercises, exams and certificates from the Programming basics module in Software University ( Sofia, Bulgaria ).
 
 Programming Basics: Practical Exam - 600/600 points.
